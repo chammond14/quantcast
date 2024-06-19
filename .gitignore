@@ -20,3 +20,9 @@
 # Go workspace file
 go.work
 go.work.sum
+
+# Log file
+*.log
+
+# Binary
+most-active-cookie
